@@ -105,6 +105,10 @@ which can be useful for you. Other related repositories are:
 * [GrimoireLab Tutorial](https://github.com/chaoss/grimoirelab-tutorial)
 * [GrimoireLab as a whole](https://github.com/chaoss/grimoirelab) (this repository)
 
+# Want to contribute to GrimoireLab?
+
+These are some general guidelines and information related to how we contribute to GrimoireLab: See [Contributing to GrimoireLab](https://github.com/chaoss/grimoirelab/blob/master/CONTRIBUTING.md)
+
 ## Contents of this repository
 
 This repository is for stuff relevant to GrimoireLab as a whole. For example:
