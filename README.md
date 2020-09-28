@@ -131,3 +131,7 @@ folder includes instrucctions and configuration files to deploy GrimoireLab usin
 `docker-compose` command.
 
 * How releases of GrimoireLab are built and tested: [Building](BUILDING.md)
+
+# Want to contribute to GrimoireLab?
+
+Here are some general guidelines and information related to how we contribute to GrimoireLab: See [Contributing to GrimoireLab](https://github.com/chaoss/grimoirelab/blob/master/CONTRIBUTING.md).
